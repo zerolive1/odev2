@@ -1,3 +1,3 @@
 # odev2
 ---
-*PATİKA
+* PATİKA
